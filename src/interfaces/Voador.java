@@ -1,0 +1,5 @@
+package interfaces;
+
+public interface Voador {
+	public void voar();
+}
